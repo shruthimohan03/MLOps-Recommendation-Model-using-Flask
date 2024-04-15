@@ -1,4 +1,4 @@
-# MACHINE LEARNING MODEL: Login page and model building using flask 
+# MACHINE LEARNING MODEL: Model building using flask + login page
 
 MODEL: SERIES RECOMMENDATION SYSTEM (rsmodel.py)
 Dataset: TV series
